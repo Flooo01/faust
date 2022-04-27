@@ -1,0 +1,11 @@
+from,to,weight
+Faust,Gretchen,3
+Gretchen,Faust,3
+Marthe,Mephisto,2
+Mephisto,Marthe,1
+Marthe,MartheMann,2
+MartheMann,Marthe,2
+Gretchen,Valentin,2
+Valentin,Gretchen,1
+Gretchen,GretchenMutter,2
+GretchenMutter,Gretchen,3
